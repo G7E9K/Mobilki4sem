@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Mobile2</string>
-    <string name="text">Текст</string>
-    <string name="input">Введите текст</string>
-    <string name="button">Кнопка</string>
-</resources>
